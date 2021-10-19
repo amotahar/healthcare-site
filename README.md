@@ -1,6 +1,3 @@
-# healthcare-related-website-atuhin
-healthcare-related-website-atuhin created by GitHub Classroom
-
 # Getting Started with Create React App With Health Care Hospital
 <li> This Website health related. </li>
 <li> You will find good doctors here. </li>
@@ -76,4 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
