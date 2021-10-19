@@ -1,0 +1,9 @@
+
+.main_service_quality{
+    background-color: #f7f7f7;
+}
+.service_quality{
+    color: green;
+    margin-top: 20px;
+    margin-bottom: 10px !important;
+}

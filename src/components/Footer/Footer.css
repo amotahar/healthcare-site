@@ -1,0 +1,11 @@
+.main_footer{
+   color: white;
+    background-color: #3d70c8;
+}
+ul li{
+    list-style: none;
+    cursor: pointer;
+}
+ul li:hover{
+    color:rgb(207, 198, 198)
+}

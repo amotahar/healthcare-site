@@ -1,0 +1,16 @@
+.link_color{
+    color: white;
+    cursor: pointer;
+}
+.link_color:hover{
+    color: rgb(178, 183, 187)
+}
+/* icon */
+.profilrIcon{
+    margin: 5px 5px;
+    color:rgb(15, 241, 241)
+    
+}
+.profilrIcon:hover{
+    color:rgb(96, 154, 209)
+}

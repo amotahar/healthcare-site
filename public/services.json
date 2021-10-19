@@ -1,0 +1,85 @@
+[
+    {
+    "doctorName":"Dr.Amlan Mandal" ,
+    "id":111,
+    "catagory":"Brain Health Tips",
+    "description":"Brain Health is an emerging and growing concept that encompasses neural development, plasticity, functioning, and recovery across the life course.",
+    "rating":4,
+    "counrty":"India Kalkata",
+    "img":"https://cambridgebrc.nihr.ac.uk/wp-content/uploads/2017/03/human_brain_picture_165499-350x350.jpg"
+
+    },
+    {
+    "doctorName":"Prof. Dr. Mahbub H Khan" ,
+    "id":222,
+    "catagory":"Liver & Gastroenterology Specialist",
+    "description":"The best way to fight liver disease is to avoid it, if at all possible. Here are 13 tried and true ways to achieve liver wellness! ",
+    "rating":4,
+    "counrty":"Dhaka Bangladesh",
+    "img":"https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/hepatitis_liver_lesions_ref_guide/280x190_hepatitis_liver_lesions_ref_guide.jpg"
+    },
+    {
+    "doctorName":"Dr. Md.Anisur Rahman" ,
+    "id":333,
+    "catagory":"Ophthalmology/Eye Specialist & Surgeon ",
+    "description":"Your diet should include plenty or fruits and vegetables, especially deep yellow and green leafy vegetables. Eating fish high in omega-3 fatty acids, such as salmon, tuna, and halibut can also help your eyes.",
+    "rating":4,
+    "counrty":"Dhaka Medical College Hospital",
+    "img":"https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/EYE2.jpg"
+    },
+    {
+    "doctorName":"Dr Anwara Begum" ,
+    "id":444,
+    "catagory":"Mental  Specialist in Dhaka",
+    "description":"An important part of keeping fit and healthy is to take care of your own mental health. There are plenty of things you can do to help make sure you keep yourself mentally healthy.",
+    "rating":4,
+    "counrty":"Apolla Hospital Dhaka",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Mkn4TLI9581qk8jA2yaf3wC0ydLmJKJn3A&usqp=CAU"
+    },
+    {
+    "doctorName":"Dr Mannan Sultan" ,
+    "id":555,
+    "catagory":"Best Heart  Specialist in Dhaka",
+    "description":"Taking an active role in your health care can help you get the best care possible from your doctor – and the best way to help your doctor help you is to make sure that he or she is aware of your current health concerns, lifestyle, family history, and health related questions.",
+    "rating":4,
+    "counrty":"India helth Hospital ",
+    "img":"https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20210118115944/ri/673/picture/2021/1/shutterstock_1576424071.jpg"
+    },
+    {
+    "doctorName":"Dr.Trisha Gupta" ,
+    "id":666,
+    "catagory":"Baby Delivery ",
+    "description":"Being a woman, we know how extraordinary it feels to have a first baby. Almost every expectant woman dreams to have an easy pregnancy and a smooth normal delivery. But not everyone is able to have a normal delivery since no one has control over the things that can happen in the labour room",
+    "rating":4,
+    "counrty":"kalkata INDIA ",
+    "img":"https://media.gettyimages.com/photos/mother-with-her-newborn-baby-in-the-hospital-picture-id1300504569?s=2048x2048"
+    },
+    {
+    "doctorName":"Dr. Napel" ,
+    "id":777,
+    "catagory":"Skin Problem Specialist",
+    "description":"Don't have time for intensive skin care? You can still pamper yourself by acing the basics. Good skin care and healthy lifestyle choices can help delay natural aging and prevent various skin problems. Get started with these five no-nonsense tips.",
+    "rating":3,
+    "counrty":"Rajshahi",
+    "img":"https://images.medicinenet.com/images/image_collection/webmd_anatomy/skin-anatomy.jpg"
+    },
+    {
+    "doctorName":"Dr. Krishna Saha" ,
+    "id":888,
+    "catagory":"Hear Specialist",
+    "description":"Don't have time for intensive skin care? You can still pamper yourself by acing the basics. Good skin care and healthy lifestyle choices can help delay natural aging and prevent various skin problems. Get started with these five no-nonsense tips.",
+    "rating":3,
+    "counrty":"Rajshahi",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIvLv3L-0Vs7kSmPNxt80YfwqQKA95kw9MLg&usqp=CAU"
+    },
+    {
+    "doctorName":"Dr. Muskan Islam" ,
+    "id":999,
+    "catagory":"Hear Specialist",
+    "description":"The meaning of health has evolved over time. In keeping with the biomedical perspective, early definitions of health focused on the theme of the body's ability to function; health was seen as a state of normal function that could be disrupted from time to time by disease.",
+    "rating":3,
+    "counrty":"Rajshahi",
+    "img":"https://static.toiimg.com/photo/msid-76714980/76714980.jpg?1422821"
+    }
+
+]
